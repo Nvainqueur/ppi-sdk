@@ -1,0 +1,11 @@
+{
+  "name": "ppi-publisher-sdk",
+  "version": "1.0.0",
+  "description": "Pay-per-Insight publisher SDK and dashboard",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
